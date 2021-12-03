@@ -18,9 +18,5 @@ Here are some ideas to get you started:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=editso&repo=fuso)
 
 # About me
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=editso&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=editso&layout=compact)  
-
-
-
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=editso&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="editso's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=editso&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
