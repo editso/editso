@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=editso&count_private=true)
-</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=editso&layout=compact)
+# My ongoing project 😊
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=editso&repo=fuso)
+
+# About me
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=editso&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=editso&layout=compact)  
+
+
+
+
