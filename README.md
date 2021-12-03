@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=editso&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="editso's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=editso&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 # My ongoing project 😊
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=editso&repo=fuso)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=editso&repo=fuso)](https://github.com/editso/fuso)
